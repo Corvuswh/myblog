@@ -1,19 +1,19 @@
-title:            HPSTR Theme
+title:            White Crow
 description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://mmistakes.github.io/hpstr-jekyll-theme
+url:              http://iprivate-album.com/myblog
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Wang Hua
   avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
-  email:          michael@mademistakes.com
+  bio:            "Code code, love love, life live."
+  email:          wanghuacrow@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
+  twitter:        shaogete
   facebook:       
-  github:         mmistakes
+  github:         wanghua
   stackexchange:  
   linkedin:       
   instagram:        
@@ -23,7 +23,7 @@ owner:
   google_plus:    http://plus.google.com/118238196859537351707
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-5
+google_analytics:
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         

@@ -1,4 +1,4 @@
-title:            White Crow
+title:            Carina dev blog
 description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
@@ -6,21 +6,21 @@ url:              http://iprivate-album.com/myblog
 
 # Owner/author information
 owner:
-  name:           Wang Hua
+  name:           Carina Wu
   avatar:         avatar.jpg
   bio:            "Code code, love love, life live."
-  email:          wanghuacrow@gmail.com
+  email:          yiyaaixuexi@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        shaogete
+  twitter:        carinatiantian
   facebook:       
-  github:         wanghua
+  github:         
   stackexchange:  
   linkedin:       
   instagram:        
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    http://plus.google.com/105716397061495995293
+  google_plus:   
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:

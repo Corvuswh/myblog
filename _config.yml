@@ -1,4 +1,4 @@
-title:            Carina dev blog
+title:            "Carina's Dev Blog"
 description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
@@ -11,7 +11,7 @@ owner:
   bio:            "Code code, love love, life live."
   email:          yiyaaixuexi@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        carinatiantian
+  twitter:        
   facebook:       
   github:         
   stackexchange:  
